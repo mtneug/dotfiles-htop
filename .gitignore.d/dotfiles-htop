@@ -1,0 +1,6 @@
+*
+!/.config
+!/.config/htop
+!/.config/htop/htoprc
+!/.gitignore.d
+!/.gitignore.d/dotfiles-htop
